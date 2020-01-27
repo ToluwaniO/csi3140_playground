@@ -1,0 +1,41 @@
+.me-img {
+    height: 20vh;
+    width: 10vw;
+    border-radius: 50%;
+}
+
+.heading {
+    /*text-align: center;*/
+}
+
+.row {
+    display: flex;
+    width: 100%;
+    /*padding: 10px;*/
+    margin: 0;
+}
+
+.row-bloc {
+    /*display: block;*/
+    width: 100%;
+    /*padding: 10px;*/
+    margin: 0;
+}
+
+.center {
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.spacing {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+body {
+    background: #2e2e2e;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    width: 100vw;
+    /*text-align: center;*/
+}
